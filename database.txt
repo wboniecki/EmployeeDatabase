@@ -1,0 +1,3 @@
+Kowalski, Jan, M, 2, 1230, 34, 2
+Nowak, Maria, W, 1, 1450, 44, 3
+Kikut, Daniel, M, 2, 2200, 50, 0
